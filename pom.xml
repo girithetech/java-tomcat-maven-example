@@ -35,7 +35,7 @@
                   <destFileName>webapp-runner.jar</destFileName>
                 </artifactItem>
               </artifactItems>
-            <failOnMissingWebXml>false</failOnMissingWebXml>
+              <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
             </configuration>
           </execution>
         </executions>
