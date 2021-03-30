@@ -29,7 +29,7 @@
             <configuration>
               <artifactItems>
                 <artifactItem>
-                  <webXml>src\main\webapp\WEB-INF\web.xml</webXml>
+                  <failOnMissingWebXml>false</failOnMissingWebXml>
                   <groupId>com.github.jsimone</groupId>
                   <artifactId>webapp-runner</artifactId>
                   <version>8.5.11.3</version>
